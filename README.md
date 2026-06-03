@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sumit%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
   <a href="https://portfolio-gamma-ecru-45.vercel.app/">
@@ -148,4 +148,4 @@ To architect the next generation of intelligent software where AI seamlessly enh
   <a href="https://www.linkedin.com/in/sumit-kumar-452107253/">
     <img src="https://img.shields.io/badge/Contact%20Me-00F0FF?style=for-the-badge&logo=minutemailer&logoColor=black&color=00F0FF" alt="Contact Me" />
   </a>
-</div>
+</div> -->
