@@ -66,35 +66,6 @@ Building modern applications requires a deep understanding of the entire stack. 
 
 ---
 
-## 🌟 Featured Projects
-
-### 👁️ [AI Surveillance System](#)
-*Real-time AI-powered surveillance platform capable of intelligent monitoring, object detection, person tracking, anomaly detection, and automated alert generation.*
-- **Features:** Object Detection, Person Tracking, Live Monitoring, Smart Alerts, Dashboard Analytics, Event Logging, Real-Time Processing.
-- **Tech Stack:** Python, FastAPI, React, MongoDB, OpenCV, YOLO, WebSockets.
-
-### 📈 [AI Stock Analysis Platform](#)
-*Advanced stock market intelligence platform using machine learning and sentiment analysis to provide market insights and portfolio analytics.*
-- **Features:** AI Market Analysis, Portfolio Tracking, News Sentiment Analysis, Prediction Models, Interactive Dashboards, Financial Intelligence.
-- **Tech Stack:** Python, FastAPI, Machine Learning, MongoDB, React, APIs.
-
-### 🧠 [TalkHealing AI](#)
-*AI-powered mental wellness platform providing conversational support, mood tracking, and personalized wellness recommendations.*
-- **Features:** Conversational AI, Mood Tracking, Wellness Insights, Personalized Recommendations, User Dashboard, Secure Authentication.
-- **Tech Stack:** React, FastAPI, MongoDB, LLM APIs, Python.
-
-### 🩺 [Fahiss](#)
-*AI-assisted healthcare and diagnostic platform designed to improve patient engagement and health analysis.*
-- **Features:** AI Health Assessment, Diagnostic Assistance, Report Generation, User Dashboard, Patient Management, Healthcare Analytics.
-- **Tech Stack:** React, FastAPI, MongoDB, Python, AI APIs.
-
-### 📝 [Modern Task Manager](#)
-*Enterprise-grade productivity and collaboration platform built for teams and individuals.*
-- **Features:** Team Collaboration, Real-Time Updates, Analytics Dashboard, Productivity Insights, Role-Based Access, Smart Notifications.
-- **Tech Stack:** React, TypeScript, FastAPI, MongoDB, WebSockets.
-
----
-
 ## 💻 Technology Stack
 
 <table align="center">
