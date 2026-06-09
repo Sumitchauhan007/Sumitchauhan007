@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sumit%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
   <a href="https://portfolio-gamma-ecru-45.vercel.app/">
