@@ -38,14 +38,12 @@ I am a Full-Stack AI Engineer specializing in building intelligent, production-g
 My focus lies in building intelligent systems that automate complex workflows and provide actionable insights. I architect robust data pipelines and integrate advanced language models to create intelligent agents capable of autonomous decision-making and seamless user interaction.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-2C2D72?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-4B32C3?style=for-the-badge&logo=magic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_APIs-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_Databases-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
 </div>
 
 ---
@@ -60,8 +58,6 @@ Building modern applications requires a deep understanding of the entire stack. 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
@@ -73,13 +69,11 @@ Building modern applications requires a deep understanding of the entire stack. 
     <td align="center" width="25%"><b>Frontend</b></td>
     <td align="center" width="25%"><b>Backend</b></td>
     <td align="center" width="25%"><b>Database</b></td>
-    <td align="center" width="25%"><b>DevOps & Tools</b></td>
   </tr>
   <tr>
     <td align="center">React<br/>React Native<br/>Next.js<br/>TypeScript<br/>JavaScript<br/>HTML & CSS<br/>Tailwind</td>
     <td align="center">Node.js<br/>Express<br/>FastAPI<br/>Python<br/>REST APIs<br/>WebSockets</td>
     <td align="center">MongoDB<br/>PostgreSQL<br/>MySQL<br/>Vector DBs</td>
-    <td align="center">Docker<br/>Git<br/>GitHub<br/>Linux<br/>VS Code</td>
   </tr>
 </table>
 
@@ -113,7 +107,6 @@ Building modern applications requires a deep understanding of the entire stack. 
   - 🧠 **Advanced AI Orchestration:** Exploring LangChain and AutoGen for building multi-agent systems.
   - 🌐 **Scalable Distributed Systems:** Deepening knowledge in microservices architecture and cloud infrastructure.
   - ⚡ **Web3 & AI Convergence:** Researching decentralized compute for AI models and data privacy.
-  - 🛠️ **System Design:** Studying high-availability, high-throughput architectures for AI-first applications.
 </details>
 
 ---
@@ -130,13 +123,6 @@ Building modern applications requires a deep understanding of the entire stack. 
 
 ---
 
-## 💡 Fun Facts
-- ☕ I convert coffee into scalable AI code.
-- 🐛 Debugging is my second favorite sport; building startups is the first.
-- 🌃 I usually have my best architectural epiphanies at 2 AM.
-- 🎨 I treat clean UI/UX as highly as I treat clean backend architecture.
-
----
 
 ## 🔮 Future Vision
 To architect the next generation of intelligent software where AI seamlessly enhances human capabilities. I envision leading engineering teams to build scalable, AI-driven platforms that solve complex challenges, creating tools that are incredibly smart under the hood but beautifully simple on the surface.
